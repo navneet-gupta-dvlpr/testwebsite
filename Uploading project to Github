@@ -1,0 +1,7 @@
+Move to website folder i.e C:/xampp/htdocs/testwebsites using cmd
+git init
+git add .
+git commit -m "first commit for testwebsite using cmd"
+git remote add origin https://github.com/navneet-gupta-dvlpr/testwebsite.git
+git push -u origin master
+Above command will ask for id and password , provide that and all your files will be uploaded.
